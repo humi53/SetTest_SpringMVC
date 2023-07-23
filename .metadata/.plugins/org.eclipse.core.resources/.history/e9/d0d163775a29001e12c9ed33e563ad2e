@@ -1,0 +1,5 @@
+package com.yopheu.hello.models;
+
+public class TestDto {
+
+}
